@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f00eb4e426c32648a49c4f3ecb599a0, type: 3}
+  m_Name: 04_003_QUIZTEXTO_LIV3_EIX2
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  codigoMinigame: -sKIbYosd49l5WzcJQOO6DrqIairlGn801mckpHT
+  currentMinigameState: 0
+  timer: 600
+  dadosQuizTexto:
+  - imagemPergunta: {fileID: 0}
+    pergunta: "Maria far\xE1 uma viagem no final de semana com a fam\xEDlia. Identifique
+      qual op\xE7\xE3o abaixo n\xE3o ajuda Maria a montar sua mochila corretamente:"
+    respostas:
+    - respostaCerta: 0
+      resposta: Fazer uma lista com tudo o que precisa levar.
+    - respostaCerta: 0
+      resposta: "Organizar todos os itens do lado de fora da mochila, antes de guard\xE1-los
+        para a viagem."
+    - respostaCerta: 0
+      resposta: "Assistir v\xEDdeos de como montar a mochila ocupando menos espa\xE7o."
+    - respostaCerta: 1
+      resposta: "Levar mais que o necess\xE1rio, com coisas que n\xE3o ser\xE3o usadas
+        na viagem."
+  - imagemPergunta: {fileID: 0}
+    pergunta: "Matheus est\xE1 se preparando para comprar um jogo. Ele ganha R$50,00
+      todo m\xEAs e quer comprar um jogo de R$75,00. Considerando que ele gasta R$25,00
+      ao m\xEAs, em quanto tempo Matheus conseguir\xE1 comprar seu jogo?"
+    respostas:
+    - respostaCerta: 1
+      resposta: "Precisar\xE1 juntar por 3 meses."
+    - respostaCerta: 0
+      resposta: "Precisar\xE1 juntar por 4 meses."
+    - respostaCerta: 0
+      resposta: "Precisar\xE1 juntar por 1 m\xEAs e meio."
+    - respostaCerta: 0
+      resposta: "Precisar\xE1 juntar por 5 meses."
+  - imagemPergunta: {fileID: 0}
+    pergunta: "Alex pretende economizar no trajeto para a escola. O trajeto demora
+      8 minutos de carro, 11 minutos de bicicleta e 25 minutos a p\xE9. Se Alex sai
+      de casa sempre as 07:00h e a aula come\xE7a \xE0s 07:20, qual o melhor modo
+      de transporte para Alex economizar e n\xE3o chegar atrasado?"
+    respostas:
+    - respostaCerta: 0
+      resposta: Alex deve continuar indo de carro.
+    - respostaCerta: 1
+      resposta: Alex deve ir de bicicleta.
+    - respostaCerta: 0
+      resposta: "Alex deve ir a p\xE9."

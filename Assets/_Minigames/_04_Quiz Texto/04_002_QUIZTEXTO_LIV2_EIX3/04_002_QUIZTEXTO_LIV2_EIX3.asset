@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f00eb4e426c32648a49c4f3ecb599a0, type: 3}
+  m_Name: 04_002_QUIZTEXTO_LIV2_EIX3
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  codigoMinigame: Bbt2P5jQJUewu-XqFDFqoGsvl906LA5R45DHWSOq
+  currentMinigameState: 0
+  timer: 600
+  dadosQuizTexto:
+  - imagemPergunta: {fileID: 0}
+    pergunta: "Luca quer ajudar seus pais a economizar energia el\xE9trica em sua
+      casa. Identifique o que Luca n\xE3o pode fazer para diminuir a conta de luz:"
+    respostas:
+    - respostaCerta: 0
+      resposta: "Apagar as luzes quando sair do c\xF4modo"
+    - respostaCerta: 0
+      resposta: "Desligar a televis\xE3o quando ningu\xE9m estiver assistindo"
+    - respostaCerta: 1
+      resposta: "Deixar o computador ligado, mesmo quando ningu\xE9m estiver usando"
+    - respostaCerta: 0
+      resposta: "Preparar os alimentos no fog\xE3o ao inv\xE9s de usar a fritadeira
+        el\xE9trica."
+  - imagemPergunta: {fileID: 0}
+    pergunta: "Voc\xEA sabe identificar qual dos aparelhos abaixo \xE9 o mais caro
+      na conta de energia?"
+    respostas:
+    - respostaCerta: 1
+      resposta: Ar-condicionado
+    - respostaCerta: 0
+      resposta: Geladeira
+    - respostaCerta: 0
+      resposta: Ventilador
+    - respostaCerta: 0
+      resposta: Notebook
+  - imagemPergunta: {fileID: 0}
+    pergunta: "Das op\xE7\xF5es abaixo, qual delas n\xE3o deixa a conta de energia
+      mais barata?"
+    respostas:
+    - respostaCerta: 0
+      resposta: "Comprar eletrodom\xE9sticos com melhor nota de efici\xEAncia do
+        selo PROCEL"
+    - respostaCerta: 0
+      resposta: "Fazer mais atividades ao ar livre inv\xE9s de assistir televis\xE3o."
+    - respostaCerta: 0
+      resposta: "Contratar energias renov\xE1veis para a casa, como solar e e\xF3lica."
+    - respostaCerta: 1
+      resposta: "Manter aparelhos eletr\xF4nicos sempre ligados, mesmo sem necessidade."

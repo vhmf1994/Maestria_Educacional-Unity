@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f00eb4e426c32648a49c4f3ecb599a0, type: 3}
+  m_Name: 04_001_QUIZTEXTO_LIV1_EIX3
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  codigoMinigame: lIlTvKdtjUWLa5FgozO8P2dgub-V4byVrMkrtbzE
+  currentMinigameState: 0
+  timer: 600
+  dadosQuizTexto:
+  - imagemPergunta: {fileID: 0}
+    pergunta: "Marina recebeu a conta de \xE1gua muito cara. O que Marina deve evitar
+      para conseguir economizar \xE1gua?"
+    respostas:
+    - respostaCerta: 0
+      resposta: "Contar o tempo do banho, n\xE3o deixando mais demorado que 10minutos."
+    - respostaCerta: 0
+      resposta: Fechar a torneira enquanto escova os dentes.
+    - respostaCerta: 1
+      resposta: "Lavar a lou\xE7a com a torneira sempre aberta."
+    - respostaCerta: 0
+      resposta: "Varrer o quintal ao inv\xE9s de lavar."
+  - imagemPergunta: {fileID: 0}
+    pergunta: "Jo\xE3o percebe que seus banhos est\xE3o muito longos. O que ele pode
+      fazer para ficar atento ao desperd\xEDcio de \xE1gua?"
+    respostas:
+    - respostaCerta: 0
+      resposta: "N\xE3o tomar banho."
+    - respostaCerta: 0
+      resposta: "Ligar o chuveiro antes de entrar, para deixar a \xE1gua esquentar."
+    - respostaCerta: 1
+      resposta: "Levar um rel\xF3gio para o banheiro e assim controlar seu tempo
+        em, no m\xE1ximo, dez minutos."
+    - respostaCerta: 0
+      resposta: Deixar o chuveiro sempre ligado durante o banho, mesmo enquanto se
+        ensaboa.
+  - imagemPergunta: {fileID: 0}
+    pergunta: "Ana v\xEA seu av\xF4 limpar a frente da casa com \xE1gua de mangueira.
+      O que Ana pode fazer para ajudar o av\xF4 a economizar \xE1gua? Escolha a op\xE7\xE3o
+      mais correta:"
+    respostas:
+    - respostaCerta: 0
+      resposta: "Ajudar o av\xF4 a lavar a frente da casa, para ir mais r\xE1pido."
+    - respostaCerta: 1
+      resposta: "Limpar a frente da casa com vassoura, n\xE3o com \xE1gua."
+    - respostaCerta: 0
+      resposta: "Reutilizar \xE1gua usada na m\xE1quina de lavar roupas para lavar
+        a frente da casa."
+    - respostaCerta: 0
+      resposta: "N\xE3o lavar nem limpar a frente da casa. "

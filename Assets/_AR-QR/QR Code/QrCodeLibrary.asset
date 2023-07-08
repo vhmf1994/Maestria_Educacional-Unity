@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: QrCodeLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5718539632391079697
+  m_GuidHigh: 10719605906948449430
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5215260125949853464
+      m_GuidHigh: 5165592213022462142
+    m_SerializedTextureGuid:
+      m_GuidLow: 4946242846115786285
+      m_GuidHigh: 4737968099539172168
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: '04_001_QUIZTEXTO_LIV1_EIX3 '
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5309718257263271663
+      m_GuidHigh: 13616252631620792461
+    m_SerializedTextureGuid:
+      m_GuidLow: 18317334081328934995
+      m_GuidHigh: 1486984421028457833
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: 04_002_QUIZTEXTO_LIV2_EIX3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5245430150310159811
+      m_GuidHigh: 3448852374926861745
+    m_SerializedTextureGuid:
+      m_GuidLow: 3086332443917933937
+      m_GuidHigh: 15213456350473488056
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: 04_003_QUIZTEXTO_LIV3_EIX2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5480431281374768540
+      m_GuidHigh: 3593399224479784888
+    m_SerializedTextureGuid:
+      m_GuidLow: 5653351008123945760
+      m_GuidHigh: 2095894191004392697
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: 04_004_QUIZTEXTO_LIV4_EIX1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5094643778109259679
+      m_GuidHigh: 7002798364414044604
+    m_SerializedTextureGuid:
+      m_GuidLow: 316501709998982653
+      m_GuidHigh: 8827686927355075720
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: 04_005_QUIZTEXTO_LIV5_EIX3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5637119475494116675
+      m_GuidHigh: 6271735891518740380
+    m_SerializedTextureGuid:
+      m_GuidLow: 7932224056205943065
+      m_GuidHigh: 7925175499930912795
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: 05_001_QUIZIMAGEM_LIV2_EIX2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5740068361153392928
+      m_GuidHigh: 14411073293441808549
+    m_SerializedTextureGuid:
+      m_GuidLow: 6927900488311925559
+      m_GuidHigh: 8995285938089791451
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: 05_002_QUIZIMAGEM_LIV5_EIX2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5716668924193581358
+      m_GuidHigh: 12834347073963333295
+    m_SerializedTextureGuid:
+      m_GuidLow: 12768956178845208233
+      m_GuidHigh: 2059457701312274425
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: 06_001_GRUPOIMAGENS_LIV2_EIX4
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4734835322675063870
+      m_GuidHigh: 10958826158628679337
+    m_SerializedTextureGuid:
+      m_GuidLow: 16574622734974721498
+      m_GuidHigh: 2013604232011081576
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: 06_002_GRUPOIMAGENS_LIV3_EIX4
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5083349028334418532
+      m_GuidHigh: 14957342895409690260
+    m_SerializedTextureGuid:
+      m_GuidLow: 11692668930480789888
+      m_GuidHigh: 823858852881794298
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: 06_003_GRUPOIMAGENS_LIV4_EIX4
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5569138219086325647
+      m_GuidHigh: 5963791614072465048
+    m_SerializedTextureGuid:
+      m_GuidLow: 11872668123016873203
+      m_GuidHigh: 17072929927247442026
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: 06_004_GRUPOIMAGENS_LIV5_EIX4
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5375912237332122100
+      m_GuidHigh: 15518236153669082537
+    m_SerializedTextureGuid:
+      m_GuidLow: 11206316543006742790
+      m_GuidHigh: 16691220801759900266
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: "07_001_MEM\xD3RIA_LIV3_EIX3"
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4905525897580126932
+      m_GuidHigh: 8918886931054740657
+    m_SerializedTextureGuid:
+      m_GuidLow: 12886201170877558556
+      m_GuidHigh: 17173257527357455241
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: '08_001_COMBINARIMAGENS_LIV1_EIX1 '
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5483716977298808060
+      m_GuidHigh: 1616696309814758569
+    m_SerializedTextureGuid:
+      m_GuidLow: 18092357089938266358
+      m_GuidHigh: 5665619819036332347
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: '08_002_COMBINARIMAGENS_LIV1_EIX4 '
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4718061748084494888
+      m_GuidHigh: 10695955446921217469
+    m_SerializedTextureGuid:
+      m_GuidLow: 3757386811711123370
+      m_GuidHigh: 14526091384368101401
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: 08_003_COMBINARIMAGENS_LIV3_EIX1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5337766043263861686
+      m_GuidHigh: 3977713140063927195
+    m_SerializedTextureGuid:
+      m_GuidLow: 4847156030697067838
+      m_GuidHigh: 8056007595280807083
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: 08_004_COMBINARIMAGENS_LIV4_EIX3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5691972102897850163
+      m_GuidHigh: 5282342234515587209
+    m_SerializedTextureGuid:
+      m_GuidLow: 11733096154942442948
+      m_GuidHigh: 16473134351389485258
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: 09_001_JOGODOS8_LIV1_EIX2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5675056585605527496
+      m_GuidHigh: 1143174586502155405
+    m_SerializedTextureGuid:
+      m_GuidLow: 16646464481543073632
+      m_GuidHigh: 9440231015667129483
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: 09_002_JOGODOS8_LIV2_EIX1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5113665738419718421
+      m_GuidHigh: 3786382099282202538
+    m_SerializedTextureGuid:
+      m_GuidLow: 14201116490080284494
+      m_GuidHigh: 4178291853310363976
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: 10_001_SUDOKU_LIV4_EIX2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5160337238715153628
+      m_GuidHigh: 1300153043140054703
+    m_SerializedTextureGuid:
+      m_GuidLow: 16560998980029870132
+      m_GuidHigh: 583997996322035306
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: 10_002_SUDOKU_LIV5_EIX1
+    m_Texture: {fileID: 0}

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f00eb4e426c32648a49c4f3ecb599a0, type: 3}
+  m_Name: 04_004_QUIZTEXTO_LIV4_EIX1
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  codigoMinigame: Xws-dLQ7lVTmrjKJ5nrZgQLzv7HsIXYl4u9RGP-z
+  currentMinigameState: 0
+  timer: 600
+  dadosQuizTexto:
+  - imagemPergunta: {fileID: 0}
+    pergunta: "Emanuela e sua fam\xEDlia est\xE3o buscando uma casa nova que gaste
+      menos nas contas de energia e \xE1gua. Dos lugares a seguir, qual \xE9 o mais
+      indicado para a fam\xEDlia?"
+    respostas:
+    - respostaCerta: 0
+      resposta: "Apartamento com elevador, sal\xE3o de festas e quadras esportivas."
+    - respostaCerta: 0
+      resposta: Casa com cisterna, piscina e ar-condicionado.
+    - respostaCerta: 1
+      resposta: Casa com energia solar, cisterna e teto verde.
+  - imagemPergunta: {fileID: 0}
+    pergunta: "Fabiano vai se mudar para morar sozinho enquanto faz faculdade. Ele
+      ganha R$1,600 reais em seu est\xE1gio e gasta aproximadamente R$900,00 com
+      os custos de energia, \xE1gua, alimenta\xE7\xE3o, sa\xFAde e transporte. Qual
+      \xE9 o maior valor de aluguel que Fabiano poderia pagar, sobrando algum dinheiro
+      extra para o m\xEAs?"
+    respostas:
+    - respostaCerta: 1
+      resposta: R$ 550,00
+    - respostaCerta: 0
+      resposta: R$ 700,00
+    - respostaCerta: 0
+      resposta: R$ 850,00
+    - respostaCerta: 0
+      resposta: R$ 350,00
+  - imagemPergunta: {fileID: 0}
+    pergunta: "Ot\xE1vio quer vender seus gibis que j\xE1 leu para poder comprar
+      novos. Ele tem tr\xEAs cole\xE7\xF5es com 12 gibis, mais duas cole\xE7\xF5es
+      com 10. Se Ot\xE1vio vender todos os seus gibis, cada um por R$5,00, quanto
+      dinheiro ter\xE1 para comprar os novos?"
+    respostas:
+    - respostaCerta: 0
+      resposta: R$ 180,00
+    - respostaCerta: 0
+      resposta: R$ 110,00
+    - respostaCerta: 1
+      resposta: R$ 280,00
+    - respostaCerta: 0
+      resposta: R$ 230,00

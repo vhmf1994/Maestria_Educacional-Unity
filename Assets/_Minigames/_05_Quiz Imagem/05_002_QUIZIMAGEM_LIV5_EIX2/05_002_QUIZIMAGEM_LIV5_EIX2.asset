@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5481d150236376b4b94fb9fb68472356, type: 3}
+  m_Name: 05_002_QUIZIMAGEM_LIV5_EIX2
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  codigoMinigame: 5tmVCKjR-ePrBiHO6sCYRwYWvQNZM4aWbAZCVc3y
+  currentMinigameState: 0
+  timer: 600
+  dadosQuizImagem:
+  - pergunta: Luiza quer fazer uma supresa para a turma e comprar um bombom para
+      cada aluno. Cada bombom custa R$2,20 e sua turma tem 22 alunos. Quanto Luiza
+      vai gastar para comprar bombons para todos?
+    respostas:
+    - respostaCerta: 1
+      resposta: {fileID: 21300000, guid: aac767c1638e8f644bb706590768a85f, type: 3}
+    - respostaCerta: 0
+      resposta: {fileID: 21300000, guid: 6fad311606451694ca4b2bdcdd8865bc, type: 3}
+    - respostaCerta: 0
+      resposta: {fileID: 21300000, guid: 490e1ff3ae4176d4786e5827e7db5a28, type: 3}
+    - respostaCerta: 0
+      resposta: {fileID: 21300000, guid: baf2ed4ea8af8c947a9284fbf0477650, type: 3}
+  - pergunta: "Patr\xEDcia quer comprar presentes para sua filha Eliane e seus dois
+      sobrinhos, Paulo e Felipe. O brinquedo de Eliane custa R$50,00, de Paulo custa
+      R$42,00 e o de Felipe custa R$29,90. Quanto dinheiro Patr\xEDcia precisa para
+      comprar os presentes?"
+    respostas:
+    - respostaCerta: 0
+      resposta: {fileID: 21300000, guid: 67c6fbd318b999647863fadf47ce508b, type: 3}
+    - respostaCerta: 0
+      resposta: {fileID: 21300000, guid: abeda94eff21b114ea0fd0821e57738c, type: 3}
+    - respostaCerta: 1
+      resposta: {fileID: 21300000, guid: 2f2f9ae7cb6aca74496297f37167de2d, type: 3}
+    - respostaCerta: 0
+      resposta: {fileID: 21300000, guid: ae2e3820ba6a90d4bbdbe550780a3853, type: 3}
+  - pergunta: "Lucas est\xE1 ajudando sua m\xE3e a encontrar uma casa mais barata
+      para morarem durante 1 ano, enquanto faz seu curso profissionalizante. Considerando
+      que as casas encontradas t\xEAm seu aluguel mais seus impostos, identifique
+      a casa mais barata para eles morarem durante o ano todo:"
+    respostas:
+    - respostaCerta: 0
+      resposta: {fileID: 21300000, guid: 2c4b0eb8a00827a4496023f8eebbf888, type: 3}
+    - respostaCerta: 0
+      resposta: {fileID: 21300000, guid: 3d0459b7d95257d4088af7ad23649fd9, type: 3}
+    - respostaCerta: 1
+      resposta: {fileID: 21300000, guid: 56221ad6b9d4fd944842e026bbd82d42, type: 3}
+    - respostaCerta: 0
+      resposta: {fileID: 21300000, guid: 663e567c1e6d7474290185323fcb35ad, type: 3}

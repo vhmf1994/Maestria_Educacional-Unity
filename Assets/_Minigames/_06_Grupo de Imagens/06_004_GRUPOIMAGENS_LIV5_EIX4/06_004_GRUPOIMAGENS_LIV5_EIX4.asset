@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bec66ee3f0af51b44958f6d843be74db, type: 3}
+  m_Name: 06_004_GRUPOIMAGENS_LIV5_EIX4
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  codigoMinigame: s2OawWQKjFDZPIP9q7X6ixH7zvVvJdAmBOhFMAFs
+  currentMinigameState: 0
+  timer: 600
+  dadosGruposImagem:
+  - idGrupo: 0
+    nomeGrupo: Documentos
+    cartasGrupoImagem:
+    - idGrupoPertencente: 0
+      imagemCarta: {fileID: -710849867, guid: 432e2e9bca6565b41b6bcbacd63db3c4, type: 3}
+    - idGrupoPertencente: 0
+      imagemCarta: {fileID: 1495818841, guid: 432e2e9bca6565b41b6bcbacd63db3c4, type: 3}
+  - idGrupo: 1
+    nomeGrupo: "Consum\xEDveis"
+    cartasGrupoImagem:
+    - idGrupoPertencente: 1
+      imagemCarta: {fileID: 1464097246, guid: 432e2e9bca6565b41b6bcbacd63db3c4, type: 3}
+    - idGrupoPertencente: 1
+      imagemCarta: {fileID: 1255448071, guid: 432e2e9bca6565b41b6bcbacd63db3c4, type: 3}
+    - idGrupoPertencente: 1
+      imagemCarta: {fileID: 1725644070, guid: 432e2e9bca6565b41b6bcbacd63db3c4, type: 3}
+  dadosCartaGruposImagens: []

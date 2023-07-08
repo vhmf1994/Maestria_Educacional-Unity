@@ -1,0 +1,1952 @@
+fileFormatVersion: 2
+guid: 13faec1f95295974f852ffe68e3f7627
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: atlas_Geral_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 3265
+        width: 800
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a4bf51c10009840bc6fa3f1a856483
+      internalID: 1735922640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_1
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 3465
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8260be1793f63343af3cb69a5782a9f
+      internalID: 505506662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_2
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 3465
+        width: 600
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8173857172e7840981ed655cb3c393
+      internalID: 1275034094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_3
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 3566
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758f14ba49c076843a544d6c8afc7b59
+      internalID: 1371153592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_4
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 3790
+        width: 264
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1008982d5b325e141aa96a9d7b4b2aa7
+      internalID: -1360426734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_5
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 3790
+        width: 264
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9c2963b038b9047ae0d44334f0da00
+      internalID: 968582916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_6
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 3790
+        width: 264
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5051eef3a1f2cc846a96922b9a44b58b
+      internalID: -683825204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_7
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 3743
+        width: 506
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88ed364182e1294d8df1a037aa1c107
+      internalID: 1412952837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_8
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 3453
+        width: 200
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04f9f9802ec97348a4fd52ec85fb28f
+      internalID: 1368719043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_9
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 3683
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a2e4c21fd0e824081b274ce7c46e70
+      internalID: -325626578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_10
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 3563
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5e637fea5bca44fa309129b3a4ee5e
+      internalID: -907806884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_11
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 3443
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef879d2cefe0f14fbede5f5c89f5828
+      internalID: 1783231353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_12
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 3410
+        width: 1920
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0682866a0c257474998b746a2c6f1097
+      internalID: 2113838503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_13
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 3364
+        width: 1920
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c55d277f5c40f44aa8b1962ed821eb5
+      internalID: 357217654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2591
+        width: 462
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe99b4e506f0e2648ba152d5bbb34902
+      internalID: -1820885400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_19
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 1256
+        width: 270
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f440bc63816df6449b9160205ba8944
+      internalID: 934154268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_20
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 1147
+        width: 270
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edca2d7e80fb37b419c3257b3b515605
+      internalID: -426906872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_21
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 1036
+        width: 270
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b0198cc27f8a849a74494674152f60
+      internalID: -990562255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_22
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 923
+        width: 525
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532d6c29af3a7a248bc18f9dd462c1da
+      internalID: 1593684934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_23
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 922
+        width: 270
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c072c180913a08545b69762eadb6dca0
+      internalID: 917368766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_24
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 471
+        width: 412
+        height: 425
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f24d34e65b304240be37f4c9d9ab54d
+      internalID: 1000850933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_25
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 471
+        width: 412
+        height: 425
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c4e620961f4c5438fa0aaf047b4df1
+      internalID: -1953124311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_26
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 812
+        width: 525
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b751a2949865eae4ca3152c9ccba1b05
+      internalID: -694976218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_27
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 810
+        width: 270
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649a802775262764fb95136fd159a0e1
+      internalID: -404186385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_28
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 520
+        width: 212
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a893717a4735041a3839934f5210cc
+      internalID: 466970768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_29
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 520
+        width: 212
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251b93ed5f1acba4eb06301411b59656
+      internalID: -426268648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_30
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 698
+        width: 525
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468aa356009bdf141844a7e146018e36
+      internalID: -1619824859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_31
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 696
+        width: 270
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09e949f83a8f954b93d9de2071c3cab
+      internalID: 1729407908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_32
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 586
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6f57dd909001f45ad3d389de693895
+      internalID: 1099168966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_33
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 372
+        width: 700
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924640650753e3e43899d82cb1c20023
+      internalID: -466989279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_34
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 581
+        width: 525
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b2e18f07681c14aa87854d2e64d64b
+      internalID: 107826577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_35
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 585
+        width: 270
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deb82353d1fd77469aa2760fa18ad2b
+      internalID: 1487486901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_36
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 471
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ae0e1755484a844a22c8e9eb7faf33
+      internalID: 1379515641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_37
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 270
+        width: 212
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ede868f48d22142b69f3d001447570
+      internalID: -1043452310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_38
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 270
+        width: 212
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49997d9df47eaa44c8729646a8576e9b
+      internalID: -1474302355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_39
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 470
+        width: 525
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917144c520d38de469b65c2bd4fe0170
+      internalID: 1523113060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_40
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 471
+        width: 270
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa25d4485e8dd6746bbeace4ce74c655
+      internalID: -725199963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_41
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 361
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45670e6756704c499deabb736474f2c
+      internalID: 1962373968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_42
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 20
+        width: 412
+        height: 425
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cf88945aa496c478c237ecfd75bb1a
+      internalID: -1707140288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_43
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 20
+        width: 412
+        height: 425
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f841f64020e95b439226cf1b8425cf3
+      internalID: 1963281057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_44
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 273
+        width: 312
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e3d316fcf687742827f1660a4adc79
+      internalID: -634084676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_45
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 356
+        width: 525
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1c53fd784c0dc4d95a30e9a358bb42
+      internalID: -1155207272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_46
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 356
+        width: 270
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4d115d7239b334eac5068d5decff1e
+      internalID: 1193737123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_47
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 246
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4a3c29c28374a49bfa024f66459f0b
+      internalID: 802929645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_48
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 22
+        width: 700
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e02896a8226b1e4da83b92c1c78555f
+      internalID: -1501322240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_49
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 147
+        width: 312
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcaee55a6982e549b6aa25752fbfd26
+      internalID: -802215455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_50
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 184
+        width: 130
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4b8e868fd0e7940968e1e12dec62ed
+      internalID: 1825740659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_51
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 184
+        width: 130
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf6c91951d132640a267526c3f183bd
+      internalID: 785406880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_52
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 20
+        width: 212
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c93050c6596704f834a3bfbbe391a5
+      internalID: -1553022093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_53
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 20
+        width: 212
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abb8f8fe6a13c14eb670daa3d5601ea
+      internalID: 966303605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_54
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 246
+        width: 525
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258d2a940b5c70d4e90fff3b6b9c8793
+      internalID: -742058902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_55
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 246
+        width: 270
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f662cd8e037602045ac03c05a5e3e5df
+      internalID: -792704528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_56
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 131
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238dea20e831f7d4e90e12b88faf3373
+      internalID: 884490586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_57
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 20
+        width: 130
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25bdd5e0264646498db275c7f6448ed
+      internalID: -513691685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_58
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 20
+        width: 130
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec20b3ebcae10784fb55a7d4fbb20eea
+      internalID: -897331210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_59
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 135
+        width: 525
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca07a23faafc3af438f8516f335e9623
+      internalID: 1553513034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_60
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 134
+        width: 270
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229bc822bf8275842924dd4a70307e01
+      internalID: -1155475116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_61
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 21
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af3a1a699fe47a478203cc46773bc25
+      internalID: 458289770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_62
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 20
+        width: 312
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc389696cfae28449181491b90f9231
+      internalID: 1615004693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_63
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 21
+        width: 525
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f795593057e8e4478bb19c2bfd76937
+      internalID: 79537285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_15
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2591
+        width: 462
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae317065af21ebe4aab86c977d81eb10
+      internalID: 1095744118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_16
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 2706
+        width: 1018
+        height: 503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b017d82f969c97f40bb579beff8e7adf
+      internalID: -1940447725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_17
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 2694
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91385cefc0307a745ae6da7076da5c32
+      internalID: -1117848946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2538
+        width: 362
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46573532f9610ba4296713cc4c60f191
+      internalID: -283444749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_64
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 20
+        width: 270
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de83632d12d7660499ee3abd126ab216
+      internalID: -1475218308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_65
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 2239
+        width: 1018
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401ba64d1df6f064297f4405c975494b
+      internalID: -923547125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_66
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1711
+        width: 1018
+        height: 503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6f9f0409f3039429544fde3f8e0bf5
+      internalID: 1038333183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Geral_67
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1183
+        width: 1018
+        height: 503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4951b26e45fae941bbd2ac3e282833c
+      internalID: -452709290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_geral_0
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 1802
+        width: 1206
+        height: 866
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90ce2acea473774b8ea2473b003c616
+      internalID: -694493515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_geral_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1645
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28492d3442e330c4398fdf3a9042e319
+      internalID: 1082636088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_geral_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1535
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dd0f9a3fe5de54ca7ca3c69d5ac2cd
+      internalID: 485909812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_geral_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1420
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1ca45e3a0eff24fb4d4f07c8e4bb96
+      internalID: -1309336845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_geral_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1296
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36104766e274bfa4da30ecaf0c4d4db8
+      internalID: -1952441960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_geral_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1186
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6896b545eac7bd40a387c6510a8c103
+      internalID: -1365068256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_geral_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1071
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a3b26dcaea93747aee6f1285a11eb9
+      internalID: 112786397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_geral_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 946
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad49e407f5298f84782cddafc62b0fe1
+      internalID: -1336822662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_geral_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 836
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7aa8bbef4e6964fabe814d54bfc70c
+      internalID: 955553951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_geral_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 721
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b3a4bdd7b9f904189396f2ff199d13
+      internalID: -1364368802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_geral_10
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 1261
+        width: 525
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253e917178f5aec419fc39776db2b9c5
+      internalID: 867516206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_geral_11
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 1150
+        width: 525
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846a526145239eb479b76c52f0403d2e
+      internalID: 1104392976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_geral_12
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 1036
+        width: 525
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52ebb73968870345be44891cbcae877
+      internalID: 1153265432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2ed9298b900118e4fac602d3afdcc69d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      atlas_Geral_56: 884490586
+      atlas_Geral_1: 505506662
+      atlas_Geral_8: 1368719043
+      atlas_Geral_11: 1783231353
+      atlas_Geral_21: -990562255
+      atlas_Geral_35: 1487486901
+      atlas_Geral_22: 1593684934
+      atlas_Geral_46: 1193737123
+      atlas_Geral_15: 1095744118
+      atlas_Geral_48: -1501322240
+      atlas_Geral_24: 1000850933
+      atlas_Geral_20: -426906872
+      atlas_Geral_27: -404186385
+      atlas_Geral_9: -325626578
+      atlas_Geral_65: -923547125
+      atlas_Geral_42: -1707140288
+      atlas_Geral_61: 458289770
+      atlas_Geral_4: -1360426734
+      atlas_Geral_26: -694976218
+      atlas_Geral_62: 1615004693
+      atlas_Geral_41: 1962373968
+      atlas_Geral_6: -683825204
+      atlas_Geral_33: -466989279
+      atlas_Geral_37: -1043452310
+      atlas_geral_5: -1365068256
+      atlas_Geral_67: -452709290
+      atlas_geral_7: -1336822662
+      atlas_Geral_19: 934154268
+      atlas_Geral_43: 1963281057
+      atlas_Geral_17: -1117848946
+      atlas_Geral_10: -907806884
+      atlas_Geral_16: -1940447725
+      atlas_Geral_64: -1475218308
+      atlas_Geral_66: 1038333183
+      atlas_geral_10: 867516206
+      atlas_geral_11: 1104392976
+      atlas_Geral_32: 1099168966
+      atlas_Geral_54: -742058902
+      atlas_Geral_51: 785406880
+      atlas_geral_8: 955553951
+      atlas_Geral_34: 107826577
+      atlas_Geral_60: -1155475116
+      atlas_geral_0: -694493515
+      atlas_Geral_2: 1275034094
+      atlas_Geral_31: 1729407908
+      atlas_Geral_59: 1553513034
+      atlas_Geral_36: 1379515641
+      atlas_geral_3: -1309336845
+      atlas_Geral_39: 1523113060
+      atlas_Geral_25: -1953124311
+      atlas_geral_2: 485909812
+      atlas_Geral_47: 802929645
+      atlas_Geral_12: 2113838503
+      atlas_Geral_28: 466970768
+      atlas_Geral_38: -1474302355
+      atlas_Geral_18: -283444749
+      atlas_Geral_7: 1412952837
+      atlas_Geral_53: 966303605
+      atlas_geral_1: 1082636088
+      atlas_Geral_29: -426268648
+      atlas_geral_4: -1952441960
+      atlas_Geral_5: 968582916
+      atlas_Geral_52: -1553022093
+      atlas_Geral_0: 1735922640
+      atlas_geral_6: 112786397
+      atlas_Geral_49: -802215455
+      atlas_geral_9: -1364368802
+      atlas_Geral_14: -1820885400
+      atlas_Geral_23: 917368766
+      atlas_Geral_55: -792704528
+      atlas_Geral_3: 1371153592
+      atlas_Geral_58: -897331210
+      atlas_Geral_30: -1619824859
+      atlas_geral_12: 1153265432
+      atlas_Geral_40: -725199963
+      atlas_Geral_57: -513691685
+      atlas_Geral_45: -1155207272
+      atlas_Geral_13: 357217654
+      atlas_Geral_44: -634084676
+      atlas_Geral_63: 79537285
+      atlas_Geral_50: 1825740659
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

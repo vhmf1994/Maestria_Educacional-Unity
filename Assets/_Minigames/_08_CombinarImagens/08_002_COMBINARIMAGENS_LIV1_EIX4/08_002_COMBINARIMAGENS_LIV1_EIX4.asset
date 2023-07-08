@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87fa0c7f13b61d94a9926c970bdf3d92, type: 3}
+  m_Name: 08_002_COMBINARIMAGENS_LIV1_EIX4
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  codigoMinigame: C70e6Flx6bY9WW7iRXIF7xDubyp2i2n-aAAIdjpD
+  currentMinigameState: 0
+  timer: 600
+  dadosDadosCombinarImagens:
+  - parSprite:
+    - {fileID: 1842550405, guid: 11919b8c959be0a4fb5d150d579b2424, type: 3}
+    - {fileID: -1478972980, guid: 11919b8c959be0a4fb5d150d579b2424, type: 3}
+  - parSprite:
+    - {fileID: -1439350557, guid: 11919b8c959be0a4fb5d150d579b2424, type: 3}
+    - {fileID: 2053642946, guid: 11919b8c959be0a4fb5d150d579b2424, type: 3}
+  - parSprite:
+    - {fileID: 1108779403, guid: 11919b8c959be0a4fb5d150d579b2424, type: 3}
+    - {fileID: 999931597, guid: 11919b8c959be0a4fb5d150d579b2424, type: 3}
+  - parSprite:
+    - {fileID: 781351250, guid: 11919b8c959be0a4fb5d150d579b2424, type: 3}
+    - {fileID: 286152973, guid: 11919b8c959be0a4fb5d150d579b2424, type: 3}

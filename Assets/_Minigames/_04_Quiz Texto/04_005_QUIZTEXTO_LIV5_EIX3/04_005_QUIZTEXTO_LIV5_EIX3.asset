@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f00eb4e426c32648a49c4f3ecb599a0, type: 3}
+  m_Name: 04_005_QUIZTEXTO_LIV5_EIX3
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  codigoMinigame: XguLfLFrroROaBrqHLiQG31L1J74dqEl2geE49y3
+  currentMinigameState: 0
+  timer: 600
+  dadosQuizTexto:
+  - imagemPergunta: {fileID: 0}
+    pergunta: "Sobre a organiza\xE7\xE3o financeira da fam\xEDlia, qual alternativa
+      \xE9 incorreta:"
+    respostas:
+    - respostaCerta: 0
+      resposta: O pagador tem que controlar os dias de pagamento de cada conta.
+    - respostaCerta: 0
+      resposta: O organizador observa os objetivos estabelecidos e acompanha a conquista
+        das metas.
+    - respostaCerta: 1
+      resposta: "A constru\xE7\xE3o do or\xE7amento fica apenas sob responsabilidade
+        de quem paga as contas."
+    - respostaCerta: 0
+      resposta: "O organizador deve ser capaz de persuadir todos os membros da fam\xEDlia
+        a informar onde gastaram o seu dinheiro."
+  - imagemPergunta: {fileID: 0}
+    pergunta: "O or\xE7amento financeiro da fam\xEDlia \xE9:"
+    respostas:
+    - respostaCerta: 0
+      resposta: "O planejamento das finan\xE7as do lar, compreende uma vis\xE3o superficial
+        das receitas e despesas, permitindo administrar melhor o dinheiro de maneira
+        que seja imposs\xEDvel atingir os objetivos e viver de forma mais organizada."
+    - respostaCerta: 0
+      resposta: "O or\xE7amento familiar serve apenas para registrar as despesas
+        do m\xEAs e controlar tudo o que foi comprado, sem a necessidade de organizar
+        objetivos futuros."
+    - respostaCerta: 0
+      resposta: "O planejamento financeiro familiar \xE9 apenas para conhecer os
+        h\xE1bitos de consumo di\xE1rio e mensal e n\xE3o esquecer nenhuma conta,
+        j\xE1 que um investimento mensal n\xE3o \xE9 importante."
+    - respostaCerta: 1
+      resposta: "O planejamento das finan\xE7as do lar, compreende uma vis\xE3o clara
+        das receitas e despesas, permitindo administrar melhor o dinheiro de maneira
+        que seja poss\xEDvel atingir os objetivos e viver de forma mais organizada."
+  - imagemPergunta: {fileID: 0}
+    pergunta: "A organiza\xE7\xE3o do or\xE7amento da fam\xEDlia ajudar\xE1 n\xE3o
+      s\xF3 a guardar dinheiro, mas tamb\xE9m a identificar os gastos que podem ser
+      reduzidos. Assim, as despesas familiares n\xE3o causam dificuldades e os planos
+      se tornar\xE3o realidade.  Qual a alternativa abaixo que est\xE1 errada para
+      a redu\xE7\xE3o de gastos:"
+    respostas:
+    - respostaCerta: 0
+      resposta: "Economizar \xE1gua para reduzir a conta e assim sobrar mais dinheiro."
+    - respostaCerta: 0
+      resposta: "Buscar o menor pre\xE7o da mercadoria que precisa comprar."
+    - respostaCerta: 1
+      resposta: "Cortar os momentos de lazer, afinal eles n\xE3o s\xE3o importantes."
+    - respostaCerta: 0
+      resposta: "Adotar medidas de consumo de energia el\xE9trica para diminuir a
+        fatura mensal."
