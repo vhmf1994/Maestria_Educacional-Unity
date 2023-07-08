@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bec66ee3f0af51b44958f6d843be74db, type: 3}
+  m_Name: 06_003_GRUPOIMAGENS_LIV4_EIX4
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  codigoMinigame: XKozgn39OUNt3Fb6q3L62ILkkl7CiiI7UFUiMsy4
+  currentMinigameState: 0
+  timer: 600
+  dadosGruposImagem:
+  - idGrupo: 0
+    nomeGrupo: Quarto
+    cartasGrupoImagem:
+    - idGrupoPertencente: 0
+      imagemCarta: {fileID: -1841330254, guid: 97ef8a95b3502e8428641c0ccdfc69e9, type: 3}
+  - idGrupo: 1
+    nomeGrupo: Cozinha
+    cartasGrupoImagem:
+    - idGrupoPertencente: 1
+      imagemCarta: {fileID: -455221796, guid: 97ef8a95b3502e8428641c0ccdfc69e9, type: 3}
+    - idGrupoPertencente: 1
+      imagemCarta: {fileID: -1606596375, guid: 97ef8a95b3502e8428641c0ccdfc69e9, type: 3}
+    - idGrupoPertencente: 1
+      imagemCarta: {fileID: 1503077031, guid: 97ef8a95b3502e8428641c0ccdfc69e9, type: 3}
+  - idGrupo: 2
+    nomeGrupo: Banheiro
+    cartasGrupoImagem:
+    - idGrupoPertencente: 2
+      imagemCarta: {fileID: -716166145, guid: 97ef8a95b3502e8428641c0ccdfc69e9, type: 3}
+    - idGrupoPertencente: 2
+      imagemCarta: {fileID: -1409428467, guid: 97ef8a95b3502e8428641c0ccdfc69e9, type: 3}
+    - idGrupoPertencente: 2
+      imagemCarta: {fileID: -722725065, guid: 97ef8a95b3502e8428641c0ccdfc69e9, type: 3}
+    - idGrupoPertencente: 2
+      imagemCarta: {fileID: 915192406, guid: 97ef8a95b3502e8428641c0ccdfc69e9, type: 3}
+  dadosCartaGruposImagens: []

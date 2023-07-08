@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: f448788e25848e94d89aaed97f47383f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Goldplay Alt
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 01935b0e7aab14342bfe35cdfe47dedd, type: 3}
+  - {fileID: 12800000, guid: 74aea30e2e3e6364f838fe7e108c608b, type: 3}
+  - {fileID: 12800000, guid: 5013faecc1544494ba0e104f88e91109, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

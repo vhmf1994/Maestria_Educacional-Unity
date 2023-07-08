@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba13707106129754695188fa7c007d3e, type: 3}
+  m_Name: "07_001_MEM\xD3RIA_LIV3_EIX3"
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  codigoMinigame: F06jNnCSWYF6uxoNlK571LZEmwvPvAGLX6Cp0RzD
+  currentMinigameState: 0
+  timer: 600
+  dadosJogoMemoria:
+  - idCarta: 0
+    acertou: 0
+    imagemJogoMemoria: {fileID: -444540774, guid: 44e19461b36919d47b38e5a7da5ecbcf, type: 3}
+  - idCarta: 1
+    acertou: 0
+    imagemJogoMemoria: {fileID: 87530960, guid: 44e19461b36919d47b38e5a7da5ecbcf, type: 3}
+  - idCarta: 2
+    acertou: 0
+    imagemJogoMemoria: {fileID: 155027888, guid: 44e19461b36919d47b38e5a7da5ecbcf, type: 3}
+  - idCarta: 3
+    acertou: 0
+    imagemJogoMemoria: {fileID: -1566552321, guid: 44e19461b36919d47b38e5a7da5ecbcf, type: 3}
+  - idCarta: 4
+    acertou: 0
+    imagemJogoMemoria: {fileID: 1120695656, guid: 44e19461b36919d47b38e5a7da5ecbcf, type: 3}
+  - idCarta: 5
+    acertou: 0
+    imagemJogoMemoria: {fileID: -669479436, guid: 44e19461b36919d47b38e5a7da5ecbcf, type: 3}
+  - idCarta: 6
+    acertou: 0
+    imagemJogoMemoria: {fileID: 1686172963, guid: 44e19461b36919d47b38e5a7da5ecbcf, type: 3}
+  - idCarta: 7
+    acertou: 0
+    imagemJogoMemoria: {fileID: -518890436, guid: 44e19461b36919d47b38e5a7da5ecbcf, type: 3}

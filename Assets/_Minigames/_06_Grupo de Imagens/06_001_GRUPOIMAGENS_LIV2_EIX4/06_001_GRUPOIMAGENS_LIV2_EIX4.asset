@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bec66ee3f0af51b44958f6d843be74db, type: 3}
+  m_Name: 06_001_GRUPOIMAGENS_LIV2_EIX4
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  codigoMinigame: evzc9t9r249K-4KZHLK7KN8WtLCbrpJx3DFaplpm
+  currentMinigameState: 0
+  timer: 600
+  dadosGruposImagem:
+  - idGrupo: 0
+    nomeGrupo: "Conta de \xC1gua"
+    cartasGrupoImagem:
+    - idGrupoPertencente: 0
+      imagemCarta: {fileID: 21300000, guid: aa633712d953ff14f9d418326dcc8c7b, type: 3}
+    - idGrupoPertencente: 0
+      imagemCarta: {fileID: 21300000, guid: c160de3536812464780a945fdecdb9af, type: 3}
+    - idGrupoPertencente: 0
+      imagemCarta: {fileID: 21300000, guid: 03a3301bb0e8d984da44c890787dbf51, type: 3}
+  - idGrupo: 1
+    nomeGrupo: Conta de Luz
+    cartasGrupoImagem:
+    - idGrupoPertencente: 1
+      imagemCarta: {fileID: 21300000, guid: ae2092cd1ee953f4daa13a738f271ed6, type: 3}
+    - idGrupoPertencente: 1
+      imagemCarta: {fileID: 21300000, guid: 7ab57a97a0ef96d40ab46e102f556a94, type: 3}
+    - idGrupoPertencente: 1
+      imagemCarta: {fileID: 21300000, guid: a0e08d5f1a9c83e4f88bf03525d6779b, type: 3}
+    - idGrupoPertencente: 1
+      imagemCarta: {fileID: 21300000, guid: 679e8abc5c6503a4db565e06ccf07966, type: 3}
+  dadosCartaGruposImagens: []
